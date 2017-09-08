@@ -1,7 +1,7 @@
 # Unity-Artist-Tools
 A whole group of miscellaneous artist tools for Unity.
 
-A set of tools for artist.  
+A set of tools for artist for drag and drop functionality.  
 
 https://www.cmelocal.com
 C Me Local World Wide Marketing LLC contributions:
